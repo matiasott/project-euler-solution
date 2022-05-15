@@ -1,5 +1,10 @@
 # Project-Euler-Solutions
 
+<p>
+  Language:<br />
+  <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
+ </p>
+
 <img width="50%" src="https://projecteuler.net/themes/logo_default.png"> <br />
 
 
